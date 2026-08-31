@@ -1,0 +1,6 @@
+{
+  "name": "JSP Dutse Clearance",
+  "description": "Official Student Clearance & Digital Dossier Portal for Jigawa State Polytechnic Dutse",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
